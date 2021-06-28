@@ -21,3 +21,4 @@ give out a `web dev` link and it shows webdev skills projects and work history.
 - [ ] add `work history`
 - [ ] add `education` page
 - [ ] figure out how to make it dynamic depending on the link used
+- [ ] FIX SPELLING
